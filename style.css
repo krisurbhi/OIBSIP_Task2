@@ -60,6 +60,7 @@ img:hover {
 .bio>p {
     font-size: 1.2rem;
     line-height: 1.4;
+    text-decoration: none;
 }
 blockquote:hover {
     background-color: black;
@@ -69,6 +70,7 @@ blockquote:hover {
 .bio>p:hover {
     background-color: white;
     color: black;  
+    text-decoration: underline;
 }
 .bio>hr {
     margin-top: 2rem;
